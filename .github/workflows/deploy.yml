@@ -32,7 +32,7 @@ jobs:
 
     - name: Install Composer dependencies
       run: |
-        composer install --no-dev --optimize-autoloader
+        composer install --no-dev --optimize-autoloader --ignore-platform-reqs
 
     - name: Sync files to cPanel
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
