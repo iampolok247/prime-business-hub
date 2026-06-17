@@ -1,0 +1,13 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F8FAFC"/>
+  <rect x="80" y="74" width="1040" height="652" rx="34" fill="white" stroke="#C9D9EA" stroke-width="6"/>
+  <circle cx="980" cy="160" r="95" fill="#F0B907" fill-opacity="0.3"/>
+  <rect x="170" y="170" width="410" height="460" rx="24" fill="#043868"/>
+  <rect x="624" y="194" width="406" height="28" rx="14" fill="#D8E5F3"/>
+  <rect x="624" y="242" width="350" height="24" rx="12" fill="#E7EFF8"/>
+  <rect x="624" y="286" width="380" height="24" rx="12" fill="#E7EFF8"/>
+  <rect x="624" y="338" width="300" height="52" rx="14" fill="#F0B907"/>
+  <rect x="624" y="416" width="406" height="182" rx="18" fill="#F8FAFC" stroke="#DCE6F1" stroke-width="4"/>
+  <text x="236" y="416" fill="#FFFFFF" font-family="Poppins, sans-serif" font-size="50" font-weight="700">Support</text>
+  <text x="236" y="482" fill="#F0B907" font-family="Poppins, sans-serif" font-size="50" font-weight="700">Team</text>
+</svg>
