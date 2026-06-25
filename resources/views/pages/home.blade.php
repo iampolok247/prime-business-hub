@@ -30,7 +30,7 @@
                             </div>
                             <div class="rounded-2xl border border-white/15 bg-white/5 p-4 backdrop-blur-sm text-sm text-white/95 font-semibold flex items-center gap-3">
                                 <span class="flex h-6 w-6 items-center justify-center rounded-full bg-brand text-white text-xs">✓</span>
-                                Ongoing Expert Mentorship
+                                Training + Expert Mentorship
                             </div>
                         </div>
                     </div>
@@ -64,15 +64,15 @@
             <article class="step-card relative overflow-hidden group">
                 <div class="absolute right-4 top-4 text-6xl font-black text-slate-100 group-hover:text-brand/10 transition-colors">02</div>
                 <span class="step-number bg-brand/10 border-brand/20 text-brand">2</span>
-                <h3 class="mt-5 text-xl font-bold text-black">Prepare Setup & Ofsted</h3>
-                <p class="mt-3 text-sm text-slate-700 leading-relaxed">We write your customized childminding policies, safe risk assessments, and prepare you for your registration check.</p>
+                <h3 class="mt-5 text-xl font-bold text-black">Complete Training & Ofsted Preparation</h3>
+                <p class="mt-3 text-sm text-slate-700 leading-relaxed">Follow the required training route, build your policies, and get inspection-ready with structured guidance.</p>
             </article>
             
             <article class="step-card relative overflow-hidden group">
                 <div class="absolute right-4 top-4 text-6xl font-black text-slate-100 group-hover:text-brand/10 transition-colors">03</div>
                 <span class="step-number bg-brand/10 border-brand/20 text-brand">3</span>
-                <h3 class="mt-5 text-xl font-bold text-black">Go Live & Attract Clients</h3>
-                <p class="mt-3 text-sm text-slate-700 leading-relaxed">Launch with your custom local marketing plans, child spaces branding, and client conversion templates.</p>
+                <h3 class="mt-5 text-xl font-bold text-black">Launch, Market & Grow</h3>
+                <p class="mt-3 text-sm text-slate-700 leading-relaxed">Start confidently with practical marketing support, mentorship calls, and growth strategies for your first year.</p>
             </article>
         </div>
     </section>
@@ -102,6 +102,10 @@
                         </li>
                         <li class="flex items-center gap-3">
                             <span class="flex h-5 w-5 items-center justify-center rounded-full bg-brand/10 text-brand text-xs">✓</span>
+                            Training guidance for learners and first-time childminding owners
+                        </li>
+                        <li class="flex items-center gap-3">
+                            <span class="flex h-5 w-5 items-center justify-center rounded-full bg-brand/10 text-brand text-xs">✓</span>
                             Branded local marketing kits to sign up parents quickly
                         </li>
                         <li class="flex items-center gap-3">
@@ -118,22 +122,27 @@
                 
                 <div class="grid gap-4 sm:grid-cols-2">
                     <article class="glass-card p-6 border-l-4 border-l-brand">
-                        <h3 class="font-bold text-black text-lg">Business Setup</h3>
+                        <h3 class="font-bold text-black text-lg"><a href="{{ route('services.launch') }}" class="hover:text-brand transition">Business Setup</a></h3>
                         <p class="mt-2 text-sm text-slate-700 leading-relaxed">Structured launch milestones, pricing templates, and local childminding demand analyses.</p>
                     </article>
                     
                     <article class="glass-card p-6 border-l-4 border-l-brand">
-                        <h3 class="font-bold text-black text-lg">Compliance Support</h3>
+                        <h3 class="font-bold text-black text-lg"><a href="{{ route('services.ofsted') }}" class="hover:text-brand transition">Compliance Support</a></h3>
                         <p class="mt-2 text-sm text-slate-700 leading-relaxed">Complete risk assessment frameworks, safeguarding checklists, and home suitability audits.</p>
                     </article>
                     
+                    <article class="glass-card p-6 border-l-4 border-l-brand">
+                        <h3 class="font-bold text-black text-lg"><a href="{{ route('services.training') }}" class="hover:text-brand transition">Training Support</a></h3>
+                        <p class="mt-2 text-sm text-slate-700 leading-relaxed">Clear guidance on required courses, certificates, and practical learning milestones before launch.</p>
+                    </article>
+
                     <article class="glass-card p-6 border-l-4 border-l-brand">
                         <h3 class="font-bold text-black text-lg">Brand & Marketing</h3>
                         <p class="mt-2 text-sm text-slate-700 leading-relaxed">Local SEO setup, flyers, social media layouts, and parental contract structures.</p>
                     </article>
                     
                     <article class="glass-card p-6 border-l-4 border-l-brand">
-                        <h3 class="font-bold text-black text-lg">1:1 Mentorship</h3>
+                        <h3 class="font-bold text-black text-lg"><a href="{{ route('services.mentorship') }}" class="hover:text-brand transition">1:1 Mentorship</a></h3>
                         <p class="mt-2 text-sm text-slate-700 leading-relaxed">Ongoing direct calls with UK childcare startup consultants to troubleshoot setup challenges.</p>
                     </article>
                 </div>
@@ -239,7 +248,7 @@
         <span class="kicker">Testimonials</span>
         <h2 class="section-heading mt-4">Approved By Local Childminding Entrepreneurs</h2>
         <p class="section-text mx-auto mt-4 max-w-2xl text-slate-700">
-            Read how other childminders completed their registration and built fully booked home nurseries with Prime Business Hub.
+            Read how other childminders completed their registration and built fully booked childminding businesses with Prime Business Hub.
         </p>
         
         <div class="mt-12 grid gap-6 md:grid-cols-3 text-left">

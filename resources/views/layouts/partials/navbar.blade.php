@@ -19,19 +19,19 @@
                     <div class="pointer-events-none absolute left-1/2 top-full z-50 w-[640px] -translate-x-1/2 pt-4 opacity-0 transition-all duration-300 group-hover:pointer-events-auto group-hover:opacity-100 group-focus-within:pointer-events-auto group-focus-within:opacity-100">
                         <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-[0_20px_50px_rgba(0,0,0,0.1)]">
                             <div class="grid gap-4 sm:grid-cols-2">
-                                <a href="{{ route('services.index') }}#launch" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
+                                <a href="{{ route('services.launch') }}" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
                                     <span class="font-bold text-brand">Business Launch</span>
                                     <span class="mt-1 text-xs text-slate-600 font-medium">Complete setup from planning to operation.</span>
                                 </a>
-                                <a href="{{ route('services.index') }}#ofsted" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
+                                <a href="{{ route('services.ofsted') }}" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
                                     <span class="font-bold text-black">Ofsted Preparation</span>
                                     <span class="mt-1 text-xs text-slate-600 font-medium">Registration and readiness support.</span>
                                 </a>
-                                <a href="{{ route('services.index') }}#marketing" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
-                                    <span class="font-bold text-brand">Marketing Support</span>
-                                    <span class="mt-1 text-xs text-slate-600 font-medium">Attract families and increase enquiries.</span>
+                                <a href="{{ route('services.training') }}" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
+                                    <span class="font-bold text-brand">Training Pathway</span>
+                                    <span class="mt-1 text-xs text-slate-600 font-medium">Core training for learners and owners.</span>
                                 </a>
-                                <a href="{{ route('services.index') }}#mentorship" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
+                                <a href="{{ route('services.mentorship') }}" class="flex flex-col rounded-2xl border border-slate-100 bg-slate-50 p-4 transition-all duration-200 hover:-translate-y-0.5 hover:border-brand/35 hover:bg-brand-soft">
                                     <span class="font-bold text-black">Growth Mentorship</span>
                                     <span class="mt-1 text-xs text-slate-600 font-medium">1:1 business support and accountability.</span>
                                 </a>
@@ -56,6 +56,7 @@
         <div class="flex flex-wrap items-center justify-center gap-1.5 rounded-2xl border border-slate-200 bg-white/95 p-2 shadow-[0_6px_20px_rgba(0,0,0,0.03)] backdrop-blur-md text-[11px] font-bold text-black">
             <a href="{{ route('about') }}" class="rounded-lg px-2.5 py-1 transition hover:bg-brand-soft hover:text-brand">About</a>
             <a href="{{ route('services.index') }}" class="rounded-lg px-2.5 py-1 transition hover:bg-brand-soft hover:text-brand">Services</a>
+            <a href="{{ route('services.training') }}" class="rounded-lg px-2.5 py-1 transition hover:bg-brand-soft hover:text-brand">Training</a>
             <a href="{{ route('success-stories') }}" class="rounded-lg px-2.5 py-1 transition hover:bg-brand-soft hover:text-brand">Stories</a>
             <a href="{{ route('contact') }}" class="rounded-lg px-2.5 py-1 transition hover:bg-brand-soft hover:text-brand">Contact</a>
             <a href="{{ route('blog.index') }}" class="rounded-lg px-2.5 py-1 transition hover:bg-brand-soft hover:text-brand">Blog</a>

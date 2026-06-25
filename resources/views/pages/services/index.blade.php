@@ -9,7 +9,7 @@
             <span class="kicker border-white/20 bg-white/10 text-white font-extrabold uppercase">Prime Business Solutions</span>
             <h1 class="hub-title mt-4 text-white">Complete Childminding Setup Services</h1>
             <p class="hub-subtitle mt-4 max-w-4xl leading-relaxed text-slate-300">
-                We combine business planning, legal compliance support, branding setups, and consultant mentorship to guide you step-by-step to your opening day.
+                Prime Business Solutions: We combine business setup, planning, training, Ofsted registration support, compliance guidance, and expert mentorship to help you launch your childminding business with confidence.
             </p>
         </div>
     </section>
@@ -23,7 +23,7 @@
                     <span class="kicker">Step 1</span>
                     <h2 class="text-2xl font-bold text-black mt-4">Childminding Business Launch</h2>
                     <p class="mt-3 text-sm text-slate-700 leading-relaxed">
-                        A full done-for-you business configuration program covering your registration roadmap, business structures, and operations outline.
+                        Structured business launch support covering setup planning, registration milestones, and your operating foundation.
                     </p>
                     <ul class="mt-6 grid gap-2.5 text-xs font-semibold text-black sm:grid-cols-2">
                         <li class="flex items-center gap-2">
@@ -48,7 +48,7 @@
                 </div>
                 <div class="mt-8 pt-4 border-t border-slate-100 flex items-center justify-between">
                     <a href="{{ route('apply') }}" class="btn-brand py-2.5 px-6 text-xs">Start Launch Plan</a>
-                    <a href="{{ route('contact') }}" class="text-xs font-bold text-brand hover:underline">Request details →</a>
+                    <a href="{{ route('services.launch') }}" class="text-xs font-bold text-brand hover:underline">View service page →</a>
                 </div>
             </article>
             
@@ -57,7 +57,7 @@
                     <span class="kicker">Step 2</span>
                     <h2 class="text-2xl font-bold text-black mt-4">Ofsted Preparation</h2>
                     <p class="mt-3 text-sm text-slate-700 leading-relaxed">
-                        Structured compliance support to align your home nursery setting with UK registration and health inspection guidelines.
+                        Structured compliance support to help your childminding business meet UK registration and inspection requirements.
                     </p>
                     <ul class="mt-6 grid gap-2.5 text-xs font-semibold text-black sm:grid-cols-2">
                         <li class="flex items-center gap-2">
@@ -82,41 +82,41 @@
                 </div>
                 <div class="mt-8 pt-4 border-t border-slate-100 flex items-center justify-between">
                     <a href="{{ route('apply') }}" class="rounded-full bg-black px-6 py-2.5 text-xs font-bold text-white transition hover:bg-slate-800">Prepare Inspection</a>
-                    <a href="{{ route('contact') }}" class="text-xs font-bold text-slate-700 hover:underline">Request details →</a>
+                    <a href="{{ route('services.ofsted') }}" class="text-xs font-bold text-slate-700 hover:underline">View service page →</a>
                 </div>
             </article>
             
-            <article id="marketing" class="glass-card p-8 border-l-4 border-l-brand flex flex-col justify-between">
+            <article id="training" class="glass-card p-8 border-l-4 border-l-brand flex flex-col justify-between">
                 <div>
                     <span class="kicker">Step 3</span>
-                    <h2 class="text-2xl font-bold text-black mt-4">Marketing Support</h2>
+                    <h2 class="text-2xl font-bold text-black mt-4">Training Pathway</h2>
                     <p class="mt-3 text-sm text-slate-700 leading-relaxed">
-                        Custom childminder local branding, flyers, digital listings, and parent registration kits to fill your spaces quickly.
+                        A practical training route for learners and future business owners, including required certificates, safeguarding standards, and readiness coaching.
                     </p>
                     <ul class="mt-6 grid gap-2.5 text-xs font-semibold text-black sm:grid-cols-2">
                         <li class="flex items-center gap-2">
-                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Local SEO profile
+                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Required training pathway
                         </li>
                         <li class="flex items-center gap-2">
-                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Custom flyer files
+                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Safeguarding awareness
                         </li>
                         <li class="flex items-center gap-2">
-                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Messaging kits
+                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Paediatric first aid guidance
                         </li>
                         <li class="flex items-center gap-2">
-                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Parent forms
+                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> EYFS framework orientation
                         </li>
                         <li class="flex items-center gap-2">
-                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Client contracts
+                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Learner progress check-ins
                         </li>
                         <li class="flex items-center gap-2">
-                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Referral systems
+                            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span> Business readiness reviews
                         </li>
                     </ul>
                 </div>
                 <div class="mt-8 pt-4 border-t border-slate-100 flex items-center justify-between">
-                    <a href="{{ route('apply') }}" class="btn-brand py-2.5 px-6 text-xs">Start Marketing</a>
-                    <a href="{{ route('contact') }}" class="text-xs font-bold text-brand hover:underline">Request details →</a>
+                    <a href="{{ route('apply') }}" class="btn-brand py-2.5 px-6 text-xs">Start Training Plan</a>
+                    <a href="{{ route('services.training') }}" class="text-xs font-bold text-brand hover:underline">View service page →</a>
                 </div>
             </article>
             
@@ -125,7 +125,7 @@
                     <span class="kicker">Step 4</span>
                     <h2 class="text-2xl font-bold text-black mt-4">Growth Mentorship</h2>
                     <p class="mt-3 text-sm text-slate-700 leading-relaxed">
-                        Continuous direct consulting calls, pricing revisions, and business scaling guidance after your home nursery opens.
+                        Ongoing support through consultancy calls, pricing reviews, and business growth strategies to help your childminding business thrive after launch.
                     </p>
                     <ul class="mt-6 grid gap-2.5 text-xs font-semibold text-black sm:grid-cols-2">
                         <li class="flex items-center gap-2">
@@ -150,7 +150,7 @@
                 </div>
                 <div class="mt-8 pt-4 border-t border-slate-100 flex items-center justify-between">
                     <a href="{{ route('apply') }}" class="rounded-full bg-black px-6 py-2.5 text-xs font-bold text-white transition hover:bg-slate-800">Enroll Mentorship</a>
-                    <a href="{{ route('contact') }}" class="text-xs font-bold text-slate-700 hover:underline">Request details →</a>
+                    <a href="{{ route('services.mentorship') }}" class="text-xs font-bold text-slate-700 hover:underline">View service page →</a>
                 </div>
             </article>
         </div>

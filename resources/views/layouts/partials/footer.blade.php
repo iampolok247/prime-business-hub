@@ -14,6 +14,10 @@
                 <a href="{{ route('apply') }}" class="rounded-full bg-black px-6 py-2.5 text-xs font-bold text-white transition hover:bg-slate-800 hover:scale-[1.02]">Get Started Today</a>
                 <a href="mailto:hello@primebusinesshub.co.uk" class="rounded-full border border-white/40 px-6 py-2.5 text-xs font-bold text-white transition hover:border-white hover:bg-white/10">hello@primebusinesshub.co.uk</a>
             </div>
+            <div class="mt-4 space-y-1.5 text-xs font-semibold text-white/90">
+                <p><a href="tel:+442081495431" class="hover:text-black">0208 149 5431</a></p>
+                <p>Aegon House (Left side), Ground Floor Suite, 13 Lanark Square, London E14 9QD</p>
+            </div>
         </div>
         <div>
             <h4 class="text-xs uppercase font-extrabold tracking-widest text-black mb-4">Quick Links</h4>

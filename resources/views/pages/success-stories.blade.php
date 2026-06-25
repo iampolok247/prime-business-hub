@@ -9,7 +9,7 @@
             <span class="kicker border-white/20 bg-white/10 text-white font-extrabold uppercase">Client Results</span>
             <h1 class="hub-title mt-4 text-white">Childminder Success Stories</h1>
             <p class="hub-subtitle mt-4 max-w-3xl leading-relaxed text-slate-300">
-                Read how childcare practitioners across the UK worked with Prime Business Hub to open compliant, beautiful, and fully booked home nurseries.
+                Read how childcare professionals across the UK worked with Prime Business Hub to launch compliant, professional, and fully booked childminding businesses.
             </p>
         </div>
     </section>

@@ -13,6 +13,10 @@ Route::get('/', HomeController::class)->name('home');
 Route::get('/about', [PageController::class, 'about'])->name('about');
 
 Route::get('/services', [ServiceController::class, 'index'])->name('services.index');
+Route::get('/services/business-launch', [ServiceController::class, 'launch'])->name('services.launch');
+Route::get('/services/ofsted-preparation', [ServiceController::class, 'ofsted'])->name('services.ofsted');
+Route::get('/services/training-pathway', [ServiceController::class, 'training'])->name('services.training');
+Route::get('/services/growth-mentorship', [ServiceController::class, 'mentorship'])->name('services.mentorship');
 Route::get('/services/{slug}', [ServiceController::class, 'show'])->name('services.show');
 
 Route::get('/success-stories', [PageController::class, 'successStories'])->name('success-stories');
@@ -35,6 +39,10 @@ Route::get('/sitemap.xml', function () {
         route('home'),
         route('about'),
         route('services.index'),
+        route('services.launch'),
+        route('services.ofsted'),
+        route('services.training'),
+        route('services.mentorship'),
         route('success-stories'),
         route('blog.index'),
         route('faq'),

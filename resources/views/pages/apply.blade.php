@@ -9,7 +9,7 @@
             <span class="kicker border-white/20 bg-white/10 text-white font-extrabold uppercase">Application</span>
             <h1 class="hub-title mt-4 text-white">Apply To Prime Business Hub</h1>
             <p class="hub-subtitle mt-4 max-w-3xl leading-relaxed text-slate-300">
-                Complete our detailed business application form so we can evaluate your home nursery suitability and suggest the right support package.
+                Complete our detailed business application form so we can assess your suitability for starting a childminding business and recommend the most appropriate support package.
             </p>
         </div>
     </section>
@@ -24,9 +24,9 @@
         @endif
 
         <div class="max-w-4xl mx-auto glass-card p-6 md:p-12 border-t-4 border-t-brand">
-            <h2 class="text-2xl font-extrabold text-black">Launch Application Form</h2>
+            <h2 class="text-2xl font-extrabold text-black">Complete Your Childminding Business Application</h2>
             <p class="mt-2 text-sm text-slate-700 leading-relaxed">
-                Include clear details about your home layout, qualifications, target launch date, and long-term goals so our advisors can construct a comprehensive quote.
+                Please answer each section in detail so our consultants can assess your readiness, identify key gaps, and recommend the right support package.
             </p>
             @livewire('forms.application-form')
         </div>

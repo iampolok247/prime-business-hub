@@ -10,7 +10,7 @@
             <span class="kicker border-white/20 bg-white/10 text-white font-extrabold uppercase">About Our Mission</span>
             <h1 class="hub-title mt-4 text-white">We Build Confident, Compliant Childminding Businesses</h1>
             <p class="hub-subtitle mt-4 max-w-4xl leading-relaxed text-slate-300">
-                Prime Business Hub was founded to simplify the pathway for childcare entrepreneurs to establish safe, profitable, and Ofsted-compliant home nurseries.
+                Prime Business Hub was founded to simplify the pathway for aspiring childcare professionals and entrepreneurs to establish safe, profitable, and Ofsted-compliant childminding businesses from home or site-based settings.
             </p>
         </div>
     </section>
@@ -22,10 +22,10 @@
                 <span class="kicker">Your Setup Partner</span>
                 <h2 class="section-heading mt-4">Simplifying Compliance, Empowering Growth</h2>
                 <p class="section-text mt-4 leading-relaxed text-slate-700">
-                    Too many talented practitioners never open their childminding services because UK compliance, health checklists, and business setup structures feel too complex.
+                    Too many talented childcare practitioners never launch their childminding businesses because UK regulations, health and safety requirements, and business setup processes can feel overwhelming.
                 </p>
                 <p class="section-text mt-3 leading-relaxed text-slate-700">
-                    We bridge that gap. By combining clear regulatory expertise with customized marketing assets and direct consultant coaching, we ensure you launch with absolute readiness.
+                    We bridge that gap. By combining regulatory expertise, customised marketing assets, and one-to-one consultant coaching, we ensure you launch with confidence and full readiness.
                 </p>
                 
                 <ul class="mt-6 space-y-3.5 text-sm font-semibold text-black">
@@ -62,7 +62,7 @@
                     <div>
                         <div class="h-12 w-12 rounded-2xl bg-brand/10 flex items-center justify-center text-brand font-extrabold text-xl mb-6">🎯</div>
                         <h3 class="text-2xl font-bold text-black">Our Mission</h3>
-                        <p class="mt-4 text-sm text-slate-700 leading-relaxed">To remove administrative barriers and guide aspiring childminders in building safe, welcoming, and sustainable nurseries in their communities.</p>
+                        <p class="mt-4 text-sm text-slate-700 leading-relaxed">To remove administrative barriers and guide aspiring childminders in building safe, welcoming, and sustainable childminding businesses in their communities.</p>
                     </div>
                 </article>
                 
@@ -78,7 +78,7 @@
                     <div>
                         <div class="h-12 w-12 rounded-2xl bg-brand/10 flex items-center justify-center text-brand font-extrabold text-xl mb-6">🤝</div>
                         <h3 class="text-2xl font-bold text-black">Our Promise</h3>
-                        <p class="mt-4 text-sm text-slate-700 leading-relaxed">To deliver direct, practical, and Ofsted-aligned setup roadmaps that yield compliant, ready-to-inspect business results quickly.</p>
+                        <p class="mt-4 text-sm text-slate-700 leading-relaxed">To provide direct, practical, and Ofsted-aligned guidance that helps childminders build compliant, safe, and inspection-ready businesses efficiently.</p>
                     </div>
                 </article>
             </div>

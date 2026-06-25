@@ -40,7 +40,7 @@
                     <div class="space-y-4 text-sm text-slate-700 leading-relaxed">
                         <p class="flex items-center gap-3">
                             <span class="text-brand font-bold text-lg">📞</span>
-                            <span class="font-bold text-black">020 8149 5433</span>
+                            <a href="tel:+442081495431" class="font-bold text-black hover:text-brand">0208 149 5431</a>
                         </p>
                         <p class="flex items-center gap-3">
                             <span class="text-brand font-bold text-lg">✉️</span>
@@ -48,12 +48,12 @@
                         </p>
                         <p class="flex items-center gap-3">
                             <span class="text-brand font-bold text-lg">📍</span>
-                            <span class="font-semibold text-black">London, United Kingdom</span>
+                            <span class="font-semibold text-black">Aegon House (Left side), Ground Floor Suite, 13 Lanark Square, London E14 9QD</span>
                         </p>
                     </div>
 
                     <div class="mt-8 h-60 overflow-hidden rounded-2xl border border-slate-200 shadow-inner">
-                        <iframe title="London Office Location Map" class="h-full w-full" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=London,UK&output=embed"></iframe>
+                        <iframe title="Prime Business Hub Office Location Map" class="h-full w-full" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Aegon+House+Ground+Floor+Suite+13+Lanark+Square+London+E14+9QD&output=embed"></iframe>
                     </div>
                 </div>
 

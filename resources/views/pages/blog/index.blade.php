@@ -9,7 +9,7 @@
             <span class="kicker border-white/20 bg-white/10 text-white font-extrabold uppercase">Business Insights</span>
             <h1 class="hub-title mt-4 text-white">Childminding Resources & Guides</h1>
             <p class="hub-subtitle mt-4 max-w-3xl leading-relaxed text-slate-300">
-                Practical guidelines on Ofsted registration, safeguarding policies, local marketing, and childcare operations.
+                Comprehensive resources and practical guidance on training requirements, Ofsted registration, safeguarding, marketing, and running a successful childminding business.
             </p>
         </div>
     </section>

@@ -20,4 +20,24 @@ class ServiceController extends Controller
 
         return view('pages.services.show', compact('service'));
     }
+
+    public function launch()
+    {
+        return view('pages.services.business-launch');
+    }
+
+    public function ofsted()
+    {
+        return view('pages.services.ofsted-preparation');
+    }
+
+    public function training()
+    {
+        return view('pages.services.training-pathway');
+    }
+
+    public function mentorship()
+    {
+        return view('pages.services.growth-mentorship');
+    }
 }

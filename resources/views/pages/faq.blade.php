@@ -28,7 +28,7 @@
                     </span>
                 </summary>
                 <p class="mt-4 text-sm text-slate-700 leading-relaxed pl-1 border-t border-slate-100/50 pt-4 font-normal">
-                    Most of our childcare clients complete the core registration and setup milestones within 8-16 weeks. This timeline depends on home preparation speed, local licensing checkpoints, and Ofsted inspector scheduling.
+                    Most of our clients complete the key registration, training, and setup stages within 8-16 weeks. Timelines can vary depending on training completion, Ofsted processing times, and individual circumstances.
                 </p>
             </details>
             
